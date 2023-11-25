@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>HelloAPI1</Name>
+		<Assembly>RevitAPISession09.dll</Assembly>
+		<FullClassName>RevitAPISession09.HelloAPI</FullClassName>
+		<Text>Dalia</Text>
+		<Description>This plugin says Hello APi  to the user</Description>
+		<AddInId>
+			D22F78AF-5324-4CBA-B150-1D1F605E90B3
+		</AddInId>
+		<VendorId>Dalia</VendorId>
+		<VendorDescription>BIM Developer, daliahany56@gmail.com</VendorDescription>>
+
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>UserTalk</Name>
+		<Assembly>RevitAPISession09.dll</Assembly>
+		<FullClassName>RevitAPISession09.UserTalk</FullClassName>
+		<Text>Dalia 1</Text>
+		<Description>This plugin says Hello APi  to the user</Description>
+		<AddInId>
+			262AA249-838C-4074-9B51-E64DF7448086
+		</AddInId>
+		<VendorId>Dalia</VendorId>
+		<VendorDescription>BIM Developer, daliahany56@gmail.com</VendorDescription>>
+
+	</AddIn>
+	
+	
+	<AddIn Type="Command">
+		<Name>DataCollector</Name>
+		<Assembly>RevitAPISession09.dll</Assembly>
+		<FullClassName>RevitAPISession09.DataCollector</FullClassName>
+		<Text>Dalia 2</Text>
+		<Description>This plugin says Hello APi  to the user</Description>
+		<AddInId>
+			DF2FCF53-DF15-4FEC-A63D-2C03B5B50329
+		</AddInId>
+		<VendorId>Dalia</VendorId>
+		<VendorDescription>BIM Developer, daliahany56@gmail.com</VendorDescription>>
+
+	</AddIn>
+
+
+
+	<AddIn Type="Command">
+		<Name>CreatYourNameByWall</Name>
+		<Assembly>RevitAPISession09.dll</Assembly>
+		<FullClassName>RevitAPISession09.CreatYourNameByWall</FullClassName>
+		<Text>CreatYourNameByWall1</Text>
+		<Description>This plugin Creat Your Name By Wall</Description>
+		<AddInId>
+			AAAD1525-6513-437E-A49D-E17B91E78A0E
+		</AddInId>
+		<VendorId>Dalia</VendorId>
+		<VendorDescription>BIM Developer, daliahany56@gmail.com</VendorDescription>>
+
+	</AddIn>
+	
+</RevitAddIns>
+
